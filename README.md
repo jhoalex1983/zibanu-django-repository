@@ -1,3 +1,3 @@
 # zibanu-django-repository
 
-Modificando archivo de repository.
+print("Modificando archivo de repository.")
