@@ -1,3 +1,3 @@
 # zibanu-django-repository
 
-print("Modificando archivo de repository jueves 7:38")
+print("Modificando archivo de repository jueves 7:44")
